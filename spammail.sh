@@ -1,6 +1,7 @@
-
+clear
 echo "Este Script Es Creado Por Piter"
 echo "Escriba El Correo Victima"
+echo "En vez de poner el arroba, sustituir con '%40'"
 
 read too
 echo "Escriba El Asunto"
